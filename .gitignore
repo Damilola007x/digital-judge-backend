@@ -36,3 +36,13 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+*.class
+.DS_Store
+.idea/
+.vscode/
+*.iml
+# If you put the key in here temporarily, ignore it!
+src/main/resources/application.properties
